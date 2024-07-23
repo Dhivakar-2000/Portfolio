@@ -85,12 +85,12 @@
         text-align: center;
     }
     .section_pic_container,.prof-pic{
-        width: auto;
+        width: 80vw;
         height: 45vh;
         
     }
     .about-pic{
-        width: 80vw;
+        width: 90vw;
         height:41vh;
        
     }
