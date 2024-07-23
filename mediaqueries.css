@@ -86,11 +86,13 @@
     }
     .section_pic_container,.prof-pic{
         width: auto;
-        height: 51vh;  
+        height: 51vh;
+        justify-content: center;  
     }
     .about-pic{
-        width: auto;
+        width: 80vw;
         height:51vh;
+       
     }
    .section_text_p1,.section_text_p2{
     font-size: 1.5rem;
@@ -98,6 +100,7 @@
    .title{
     font-size: 2rem;
    }
+  
 
    
 }
